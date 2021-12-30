@@ -2,7 +2,6 @@ package kata4.view;
 
 import kata4.model.Mail;
 
-import javax.sound.sampled.Line;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
